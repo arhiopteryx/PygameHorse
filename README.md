@@ -4,4 +4,4 @@ A project created to familiarize yourself with the Pygame framework. A racing ga
 
 Screenshots are below.
 
-![alt text](https://github.com/Genya45/PygameHorse/blob/main/Screeenshot.png)
+![alt text](https://github.com/Genya45/PygameHorse/blob/main/Screenshot.png)
